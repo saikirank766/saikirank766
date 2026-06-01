@@ -27,7 +27,7 @@ Power BI | SQL | DAX | Excel | Data Analysis | Automation
 
 🏢 Experience
 
-   Currently working with sms techsoft india Ltd
+   Currently working with UPTEC INFORMATION TECNOLOGY PVT LTD.
 
 ⚡ Fun fact: I enjoy writing SQL queries more than scrolling social media 😄
 
